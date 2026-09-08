@@ -1,0 +1,44 @@
+[
+  {
+    "Feature": "WildlifeSize",
+    "ChiSquare": 3920.467845,
+    "DegreesOfFreedom": 2,
+    "PValue": 0,
+    "CramersV": 0.392556
+  },
+  {
+    "Feature": "FlightPhase",
+    "ChiSquare": 445.039543,
+    "DegreesOfFreedom": 6,
+    "PValue": 5.734582e-93,
+    "CramersV": 0.1314
+  },
+  {
+    "Feature": "NumberStruck",
+    "ChiSquare": 196.053,
+    "DegreesOfFreedom": 3,
+    "PValue": 3.005781e-42,
+    "CramersV": 0.087133
+  },
+  {
+    "Feature": "IsAircraftLarge?",
+    "ChiSquare": 86.785492,
+    "DegreesOfFreedom": 1,
+    "PValue": 1.209536e-20,
+    "CramersV": 0.058083
+  },
+  {
+    "Feature": "PilotWarned",
+    "ChiSquare": 29.136039,
+    "DegreesOfFreedom": 1,
+    "PValue": 6.747019e-8,
+    "CramersV": 0.033264
+  },
+  {
+    "Feature": "ConditionsSky",
+    "ChiSquare": 7.865937,
+    "DegreesOfFreedom": 2,
+    "PValue": 0.01958545,
+    "CramersV": 0.015188
+  }
+]

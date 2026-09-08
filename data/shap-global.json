@@ -1,0 +1,50 @@
+[
+  {
+    "Feature": "WildlifeSize",
+    "MeanAbsSHAP": 0.498847
+  },
+  {
+    "Feature": "WildlifeSpecies",
+    "MeanAbsSHAP": 0.330141
+  },
+  {
+    "Feature": "MakeModel",
+    "MeanAbsSHAP": 0.236446
+  },
+  {
+    "Feature": "FlightPhase",
+    "MeanAbsSHAP": 0.200355
+  },
+  {
+    "Feature": "NumberStruck",
+    "MeanAbsSHAP": 0.17057
+  },
+  {
+    "Feature": "Altitude",
+    "MeanAbsSHAP": 0.131146
+  },
+  {
+    "Feature": "Month",
+    "MeanAbsSHAP": 0.122237
+  },
+  {
+    "Feature": "AltitudeBin",
+    "MeanAbsSHAP": 0.049028
+  },
+  {
+    "Feature": "Engines",
+    "MeanAbsSHAP": 0.041775
+  },
+  {
+    "Feature": "IsAircraftLarge?",
+    "MeanAbsSHAP": 0.029764
+  },
+  {
+    "Feature": "ConditionsSky",
+    "MeanAbsSHAP": 0.024792
+  },
+  {
+    "Feature": "PilotWarned",
+    "MeanAbsSHAP": 0.021504
+  }
+]

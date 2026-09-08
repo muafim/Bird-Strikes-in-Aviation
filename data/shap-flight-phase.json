@@ -1,0 +1,37 @@
+[
+  {
+    "FlightPhase": "Descent",
+    "Observations": 112,
+    "MeanSHAP": 0.386394
+  },
+  {
+    "FlightPhase": "Climb",
+    "Observations": 972,
+    "MeanSHAP": 0.371967
+  },
+  {
+    "FlightPhase": "Parked",
+    "Observations": 2,
+    "MeanSHAP": 0.191997
+  },
+  {
+    "FlightPhase": "Take-off run",
+    "Observations": 1120,
+    "MeanSHAP": 0.113818
+  },
+  {
+    "FlightPhase": "Approach",
+    "Observations": 2568,
+    "MeanSHAP": -0.058314
+  },
+  {
+    "FlightPhase": "Taxi",
+    "Observations": 13,
+    "MeanSHAP": -0.157567
+  },
+  {
+    "FlightPhase": "Landing Roll",
+    "Observations": 1286,
+    "MeanSHAP": -0.390273
+  }
+]

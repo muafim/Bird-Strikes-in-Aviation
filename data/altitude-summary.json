@@ -1,0 +1,14 @@
+[
+  {
+    "Damage": "Caused damage",
+    "Events": 2454,
+    "MedianAltitude": 300,
+    "MeanAltitude": 1303.588427
+  },
+  {
+    "Damage": "No damage",
+    "Events": 22975,
+    "MedianAltitude": 40,
+    "MeanAltitude": 745.135495
+  }
+]

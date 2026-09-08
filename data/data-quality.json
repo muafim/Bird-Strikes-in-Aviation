@@ -1,0 +1,106 @@
+[
+  {
+    "Feature": "ConditionsPrecipitation",
+    "MissingPercent": 92.075976
+  },
+  {
+    "Feature": "Effect",
+    "MissingPercent": 91.828228
+  },
+  {
+    "Feature": "Remarks",
+    "MissingPercent": 18.722718
+  },
+  {
+    "Feature": "OriginState",
+    "MissingPercent": 1.765701
+  },
+  {
+    "Feature": "Engines",
+    "MissingPercent": 0.920209
+  },
+  {
+    "Feature": "AltitudeBin",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "AircraftType",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "AirportName",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "MakeModel",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "RecordID",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "Damage",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "FlightDate",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "NumberStruckActual",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "NumberStruck",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "FlightPhase",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "Operator",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "RemainsCollected?",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "RemainsSentToSmithsonian",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "WildlifeSize",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "ConditionsSky",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "WildlifeSpecies",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "PilotWarned",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "Cost",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "Altitude",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "PeopleInjured",
+    "MissingPercent": 0
+  },
+  {
+    "Feature": "IsAircraftLarge?",
+    "MissingPercent": 0
+  }
+]

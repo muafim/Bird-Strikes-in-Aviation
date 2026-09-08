@@ -1,0 +1,86 @@
+[
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "Incidents": 937,
+    "DamageEvents": 140,
+    "DamageRate": 14.941302
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "Incidents": 772,
+    "DamageEvents": 110,
+    "DamageRate": 14.248705
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "Incidents": 1233,
+    "DamageEvents": 215,
+    "DamageRate": 17.437145
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "Incidents": 1828,
+    "DamageEvents": 223,
+    "DamageRate": 12.199125
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "Incidents": 2318,
+    "DamageEvents": 182,
+    "DamageRate": 7.851596
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "Incidents": 2078,
+    "DamageEvents": 161,
+    "DamageRate": 7.747834
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "Incidents": 3278,
+    "DamageEvents": 186,
+    "DamageRate": 5.674192
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "Incidents": 3710,
+    "DamageEvents": 233,
+    "DamageRate": 6.280323
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "Incidents": 3417,
+    "DamageEvents": 277,
+    "DamageRate": 8.106526
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "Incidents": 3038,
+    "DamageEvents": 288,
+    "DamageRate": 9.479921
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "Incidents": 1801,
+    "DamageEvents": 268,
+    "DamageRate": 14.880622
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "Incidents": 1019,
+    "DamageEvents": 171,
+    "DamageRate": 16.781158
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "NumberStruck": 1,
+    "Observations": 4955,
+    "MeanSHAP": -0.117334
+  },
+  {
+    "NumberStruck": "11 to 100",
+    "Observations": 61,
+    "MeanSHAP": 1.082006
+  },
+  {
+    "NumberStruck": "2 to 10",
+    "Observations": 1057,
+    "MeanSHAP": 0.323713
+  }
+]

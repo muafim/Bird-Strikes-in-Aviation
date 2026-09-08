@@ -1,0 +1,80 @@
+[
+  {
+    "AltitudeBin": "(-1, 0]",
+    "Incidents": 9843,
+    "DamageEvents": 619,
+    "DamageRate": 6.288733
+  },
+  {
+    "AltitudeBin": "(0, 10]",
+    "Incidents": 1353,
+    "DamageEvents": 151,
+    "DamageRate": 11.160384
+  },
+  {
+    "AltitudeBin": "(10, 30]",
+    "Incidents": 1094,
+    "DamageEvents": 80,
+    "DamageRate": 7.312614
+  },
+  {
+    "AltitudeBin": "(100, 200]",
+    "Incidents": 1296,
+    "DamageEvents": 125,
+    "DamageRate": 9.645062
+  },
+  {
+    "AltitudeBin": "(1000, 2000]",
+    "Incidents": 1807,
+    "DamageEvents": 294,
+    "DamageRate": 16.270061
+  },
+  {
+    "AltitudeBin": "(200, 400]",
+    "Incidents": 1299,
+    "DamageEvents": 150,
+    "DamageRate": 11.547344
+  },
+  {
+    "AltitudeBin": "(2000, 3000]",
+    "Incidents": 1175,
+    "DamageEvents": 171,
+    "DamageRate": 14.553191
+  },
+  {
+    "AltitudeBin": "(30, 50]",
+    "Incidents": 1383,
+    "DamageEvents": 111,
+    "DamageRate": 8.02603
+  },
+  {
+    "AltitudeBin": "(3000, 5000]",
+    "Incidents": 1006,
+    "DamageEvents": 130,
+    "DamageRate": 12.922465
+  },
+  {
+    "AltitudeBin": "(400, 600]",
+    "Incidents": 1160,
+    "DamageEvents": 120,
+    "DamageRate": 10.344828
+  },
+  {
+    "AltitudeBin": "(50, 100]",
+    "Incidents": 1568,
+    "DamageEvents": 125,
+    "DamageRate": 7.971939
+  },
+  {
+    "AltitudeBin": "(5000, 18000]",
+    "Incidents": 885,
+    "DamageEvents": 157,
+    "DamageRate": 17.740113
+  },
+  {
+    "AltitudeBin": "(600, 1000]",
+    "Incidents": 1560,
+    "DamageEvents": 221,
+    "DamageRate": 14.166667
+  }
+]

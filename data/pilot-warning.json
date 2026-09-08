@@ -1,0 +1,14 @@
+[
+  {
+    "PilotWarned": "N",
+    "Incidents": 14567,
+    "DamageEvents": 1532,
+    "DamageRate": 10.516922
+  },
+  {
+    "PilotWarned": "Y",
+    "Incidents": 10862,
+    "DamageEvents": 922,
+    "DamageRate": 8.488308
+  }
+]

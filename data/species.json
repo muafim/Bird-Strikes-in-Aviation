@@ -1,0 +1,62 @@
+[
+  {
+    "WildlifeSpecies": "Unknown bird - small",
+    "Incidents": 10436
+  },
+  {
+    "WildlifeSpecies": "Unknown bird - medium",
+    "Incidents": 4297
+  },
+  {
+    "WildlifeSpecies": "Mourning dove",
+    "Incidents": 897
+  },
+  {
+    "WildlifeSpecies": "European starling",
+    "Incidents": 885
+  },
+  {
+    "WildlifeSpecies": "Unknown bird - large",
+    "Incidents": 793
+  },
+  {
+    "WildlifeSpecies": "Rock pigeon",
+    "Incidents": 592
+  },
+  {
+    "WildlifeSpecies": "Barn swallow",
+    "Incidents": 579
+  },
+  {
+    "WildlifeSpecies": "Killdeer",
+    "Incidents": 470
+  },
+  {
+    "WildlifeSpecies": "American kestrel",
+    "Incidents": 444
+  },
+  {
+    "WildlifeSpecies": "Red-tailed hawk",
+    "Incidents": 410
+  },
+  {
+    "WildlifeSpecies": "Canada goose",
+    "Incidents": 370
+  },
+  {
+    "WildlifeSpecies": "Horned lark",
+    "Incidents": 339
+  },
+  {
+    "WildlifeSpecies": "Ring-billed gull",
+    "Incidents": 240
+  },
+  {
+    "WildlifeSpecies": "Herring gull",
+    "Incidents": 195
+  },
+  {
+    "WildlifeSpecies": "Cliff swallow",
+    "Incidents": 183
+  }
+]

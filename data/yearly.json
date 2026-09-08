@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2000,
+    "Incidents": 1367,
+    "DamageEvents": 196,
+    "DamageRate": 14.337966
+  },
+  {
+    "Year": 2001,
+    "Incidents": 1230,
+    "DamageEvents": 123,
+    "DamageRate": 10
+  },
+  {
+    "Year": 2002,
+    "Incidents": 1681,
+    "DamageEvents": 186,
+    "DamageRate": 11.064842
+  },
+  {
+    "Year": 2003,
+    "Incidents": 1568,
+    "DamageEvents": 201,
+    "DamageRate": 12.818878
+  },
+  {
+    "Year": 2004,
+    "Incidents": 1692,
+    "DamageEvents": 184,
+    "DamageRate": 10.874704
+  },
+  {
+    "Year": 2005,
+    "Incidents": 1853,
+    "DamageEvents": 180,
+    "DamageRate": 9.713977
+  },
+  {
+    "Year": 2006,
+    "Incidents": 2159,
+    "DamageEvents": 232,
+    "DamageRate": 10.745716
+  },
+  {
+    "Year": 2007,
+    "Incidents": 2301,
+    "DamageEvents": 217,
+    "DamageRate": 9.430682
+  },
+  {
+    "Year": 2008,
+    "Incidents": 2258,
+    "DamageEvents": 218,
+    "DamageRate": 9.654562
+  },
+  {
+    "Year": 2009,
+    "Incidents": 3247,
+    "DamageEvents": 250,
+    "DamageRate": 7.699415
+  },
+  {
+    "Year": 2010,
+    "Incidents": 3121,
+    "DamageEvents": 254,
+    "DamageRate": 8.138417
+  },
+  {
+    "Year": 2011,
+    "Incidents": 2952,
+    "DamageEvents": 213,
+    "DamageRate": 7.215447
+  }
+]

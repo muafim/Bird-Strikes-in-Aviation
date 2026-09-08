@@ -1,0 +1,44 @@
+[
+  {
+    "FlightPhase": "Approach",
+    "Incidents": 10382,
+    "DamageEvents": 985,
+    "DamageRate": 9.487575
+  },
+  {
+    "FlightPhase": "Landing Roll",
+    "Incidents": 5047,
+    "DamageEvents": 236,
+    "DamageRate": 4.676045
+  },
+  {
+    "FlightPhase": "Take-off run",
+    "Incidents": 4711,
+    "DamageEvents": 376,
+    "DamageRate": 7.98132
+  },
+  {
+    "FlightPhase": "Climb",
+    "Incidents": 4429,
+    "DamageEvents": 694,
+    "DamageRate": 15.669451
+  },
+  {
+    "FlightPhase": "Descent",
+    "Incidents": 776,
+    "DamageEvents": 157,
+    "DamageRate": 20.231959
+  },
+  {
+    "FlightPhase": "Taxi",
+    "Incidents": 74,
+    "DamageEvents": 4,
+    "DamageRate": 5.405405
+  },
+  {
+    "FlightPhase": "Parked",
+    "Incidents": 10,
+    "DamageEvents": 2,
+    "DamageRate": 20
+  }
+]

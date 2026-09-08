@@ -1,0 +1,54 @@
+[
+  {
+    "TestYear": 2008,
+    "BestIteration": 453,
+    "Threshold": 0.1064,
+    "PR-AUC": 0.5691,
+    "ROC-AUC": 0.886,
+    "BrierScore": 0.0595,
+    "Precision": 0.3346,
+    "Recall": 0.7982,
+    "F2": 0.625,
+    "Specificity": 0.8304,
+    "FalseNegativeRate": 0.2018
+  },
+  {
+    "TestYear": 2009,
+    "BestIteration": 428,
+    "Threshold": 0.1419,
+    "PR-AUC": 0.46,
+    "ROC-AUC": 0.8408,
+    "BrierScore": 0.0543,
+    "Precision": 0.3047,
+    "Recall": 0.668,
+    "F2": 0.5394,
+    "Specificity": 0.8729,
+    "FalseNegativeRate": 0.332
+  },
+  {
+    "TestYear": 2010,
+    "BestIteration": 256,
+    "Threshold": 0.0684,
+    "PR-AUC": 0.4768,
+    "ROC-AUC": 0.8807,
+    "BrierScore": 0.0556,
+    "Precision": 0.236,
+    "Recall": 0.8465,
+    "F2": 0.5579,
+    "Specificity": 0.7572,
+    "FalseNegativeRate": 0.1535
+  },
+  {
+    "TestYear": 2011,
+    "BestIteration": 184,
+    "Threshold": 0.1144,
+    "PR-AUC": 0.482,
+    "ROC-AUC": 0.8651,
+    "BrierScore": 0.0496,
+    "Precision": 0.2647,
+    "Recall": 0.7418,
+    "F2": 0.5452,
+    "Specificity": 0.8397,
+    "FalseNegativeRate": 0.2582
+  }
+]

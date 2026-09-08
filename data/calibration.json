@@ -1,0 +1,14 @@
+[
+  {
+    "Probability": "Raw CatBoost",
+    "Brier Score": 0.0526
+  },
+  {
+    "Probability": "Calibrated CatBoost",
+    "Brier Score": 0.0524
+  },
+  {
+    "Probability": "Baseline",
+    "Brier Score": 0.071
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "WildlifeSize": "Large",
+    "Observations": 411,
+    "MeanSHAP": 1.50154,
+    "MedianSHAP": 1.479563
+  },
+  {
+    "WildlifeSize": "Medium",
+    "Observations": 1111,
+    "MeanSHAP": 0.585882,
+    "MedianSHAP": 0.541668
+  },
+  {
+    "WildlifeSize": "Small",
+    "Observations": 4551,
+    "MeanSHAP": -0.386793,
+    "MedianSHAP": -0.40906
+  }
+]

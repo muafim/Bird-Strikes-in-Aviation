@@ -1,0 +1,20 @@
+[
+  {
+    "ConditionsSky": "Overcast",
+    "Incidents": 4195,
+    "DamageEvents": 444,
+    "DamageRate": 10.584029
+  },
+  {
+    "ConditionsSky": "No Cloud",
+    "Incidents": 12575,
+    "DamageEvents": 1226,
+    "DamageRate": 9.749503
+  },
+  {
+    "ConditionsSky": "Some Cloud",
+    "Incidents": 8659,
+    "DamageEvents": 784,
+    "DamageRate": 9.054163
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Model": "CatBoost",
+    "ROC-AUC": 0.8403,
+    "PR-AUC": 0.4693,
+    "Precision": 0.6789,
+    "Recall": 0.296,
+    "F1": 0.4123,
+    "Brier Score": 0.0537
+  },
+  {
+    "Model": "Logistic Regression",
+    "ROC-AUC": 0.8388,
+    "PR-AUC": 0.4565,
+    "Precision": 0.2619,
+    "Recall": 0.68,
+    "F1": 0.3782,
+    "Brier Score": 0.1248
+  },
+  {
+    "Model": "Random Forest",
+    "ROC-AUC": 0.8277,
+    "PR-AUC": 0.4213,
+    "Precision": 0.2789,
+    "Recall": 0.656,
+    "F1": 0.3914,
+    "Brier Score": 0.1178
+  },
+  {
+    "Model": "Dummy Classifier",
+    "ROC-AUC": 0.5,
+    "PR-AUC": 0.077,
+    "Precision": 0,
+    "Recall": 0,
+    "F1": 0,
+    "Brier Score": 0.072
+  }
+]

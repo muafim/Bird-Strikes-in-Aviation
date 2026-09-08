@@ -1,0 +1,26 @@
+[
+  {
+    "Mode": "Default",
+    "Threshold": 0.5,
+    "Precision": 0.6789,
+    "Recall": 0.296,
+    "F1": 0.4123,
+    "F2": 0.3336
+  },
+  {
+    "Mode": "F2 Optimal",
+    "Threshold": 0.1948,
+    "Precision": 0.3932,
+    "Recall": 0.604,
+    "F1": 0.4763,
+    "F2": 0.5455
+  },
+  {
+    "Mode": "Safety Recall >= 75%",
+    "Threshold": 0.0684,
+    "Precision": 0.2,
+    "Recall": 0.752,
+    "F1": 0.316,
+    "F2": 0.4845
+  }
+]

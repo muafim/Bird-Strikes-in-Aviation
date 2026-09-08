@@ -1,0 +1,26 @@
+[
+  {
+    "NumberStruck": 1,
+    "Incidents": 20790,
+    "DamageEvents": 1789,
+    "DamageRate": 8.605099
+  },
+  {
+    "NumberStruck": "2 to 10",
+    "Incidents": 4319,
+    "DamageEvents": 584,
+    "DamageRate": 13.521649
+  },
+  {
+    "NumberStruck": "11 to 100",
+    "Incidents": 312,
+    "DamageEvents": 77,
+    "DamageRate": 24.679487
+  },
+  {
+    "NumberStruck": "Over 100",
+    "Incidents": 8,
+    "DamageEvents": 4,
+    "DamageRate": 50
+  }
+]

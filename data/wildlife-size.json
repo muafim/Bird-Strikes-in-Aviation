@@ -1,0 +1,20 @@
+[
+  {
+    "WildlifeSize": "Large",
+    "Incidents": 2080,
+    "DamageEvents": 928,
+    "DamageRate": 44.615385
+  },
+  {
+    "WildlifeSize": "Medium",
+    "Incidents": 5937,
+    "DamageEvents": 924,
+    "DamageRate": 15.563416
+  },
+  {
+    "WildlifeSize": "Small",
+    "Incidents": 17412,
+    "DamageEvents": 602,
+    "DamageRate": 3.457386
+  }
+]

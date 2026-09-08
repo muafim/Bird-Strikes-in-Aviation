@@ -1,0 +1,18 @@
+[
+  {
+    "Kategori": "True Negative",
+    "Jumlah": 4178
+  },
+  {
+    "Kategori": "False Positive",
+    "Jumlah": 1428
+  },
+  {
+    "Kategori": "False Negative",
+    "Jumlah": 75
+  },
+  {
+    "Kategori": "True Positive",
+    "Jumlah": 392
+  }
+]

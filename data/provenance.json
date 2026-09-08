@@ -1,0 +1,227 @@
+{
+  "notebook": "air-aviation-bird-strike-improved.ipynb",
+  "sha256": "ce06f5bd8ac160dfe4aa4c22c3dcb89afdea48b82b886b032efc72d8ffc25983",
+  "cellsAudited": 247,
+  "datasets": {
+    "data-quality": {
+      "cells": [
+        13
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "yearly": {
+      "cells": [
+        32
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "monthly": {
+      "cells": [
+        34
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "flight-phase": {
+      "cells": [
+        39
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "altitude-bin": {
+      "cells": [
+        52
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "wildlife-size": {
+      "cells": [
+        58
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "number-struck": {
+      "cells": [
+        62
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "species": {
+      "cells": [
+        68
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "species-risk": {
+      "cells": [
+        72
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "aircraft-size": {
+      "cells": [
+        80
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "pilot-warning": {
+      "cells": [
+        84
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "sky": {
+      "cells": [
+        88
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "statistics": {
+      "cells": [
+        115
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "altitude-summary": {
+      "cells": [
+        49
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "split": {
+      "cells": [
+        132
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "model-comparison": {
+      "cells": [
+        159
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "thresholds": {
+      "cells": [
+        177
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "model-performance": {
+      "cells": [
+        185
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "confusion": {
+      "cells": [
+        188
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "shap-global": {
+      "cells": [
+        220
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "shap-wildlife": {
+      "cells": [
+        226
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "shap-number": {
+      "cells": [
+        229
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "shap-flight-phase": {
+      "cells": [
+        233
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "shap-local": {
+      "cells": [
+        241
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "backtesting": {
+      "cells": [
+        245
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "backtesting-summary": {
+      "cells": [
+        246
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "overview": {
+      "cells": [
+        27
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "calibration": {
+      "cells": [
+        208,
+        212
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "high-risk-case": {
+      "cells": [
+        239
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    },
+    "error-rates": {
+      "cells": [
+        195
+      ],
+      "basis": "Saved code output; zero-based cell indices"
+    }
+  },
+  "figures": {
+    "altitude": {
+      "cell": 47,
+      "path": "/notebook/altitude.png",
+      "coordinatesAvailable": false
+    },
+    "altitude-outcome": {
+      "cell": 50,
+      "path": "/notebook/altitude-outcome.png",
+      "coordinatesAvailable": false
+    },
+    "roc": {
+      "cell": 163,
+      "path": "/notebook/roc.png",
+      "coordinatesAvailable": false
+    },
+    "precisionRecall": {
+      "cell": 165,
+      "path": "/notebook/precisionRecall.png",
+      "coordinatesAvailable": false
+    },
+    "calibration": {
+      "cell": 211,
+      "path": "/notebook/calibration.png",
+      "coordinatesAvailable": false
+    }
+  },
+  "rowLevelAvailable": false,
+  "speciesMinimumObservations": 30,
+  "staleMarkdownCells": [
+    166,
+    190,
+    191,
+    192,
+    193,
+    196,
+    199,
+    209
+  ]
+}

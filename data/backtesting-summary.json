@@ -1,0 +1,42 @@
+[
+  {
+    "Metric": "PR-AUC",
+    "Mean": 0.497,
+    "Std": 0.049
+  },
+  {
+    "Metric": "ROC-AUC",
+    "Mean": 0.8682,
+    "Std": 0.0203
+  },
+  {
+    "Metric": "BrierScore",
+    "Mean": 0.0548,
+    "Std": 0.0041
+  },
+  {
+    "Metric": "Precision",
+    "Mean": 0.285,
+    "Std": 0.0435
+  },
+  {
+    "Metric": "Recall",
+    "Mean": 0.7636,
+    "Std": 0.0768
+  },
+  {
+    "Metric": "F2",
+    "Mean": 0.5669,
+    "Std": 0.0395
+  },
+  {
+    "Metric": "Specificity",
+    "Mean": 0.8251,
+    "Std": 0.0487
+  },
+  {
+    "Metric": "FalseNegativeRate",
+    "Mean": 0.2364,
+    "Std": 0.0768
+  }
+]

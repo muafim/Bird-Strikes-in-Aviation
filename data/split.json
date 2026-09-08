@@ -1,0 +1,20 @@
+[
+  {
+    "Dataset": "Training",
+    "Observations": 16109,
+    "DamageEvents": 1737,
+    "DamageRate": 10.78
+  },
+  {
+    "Dataset": "Validation",
+    "Observations": 3247,
+    "DamageEvents": 250,
+    "DamageRate": 7.7
+  },
+  {
+    "Dataset": "Test",
+    "Observations": 6073,
+    "DamageEvents": 467,
+    "DamageRate": 7.69
+  }
+]

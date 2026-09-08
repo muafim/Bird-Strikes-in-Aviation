@@ -1,0 +1,74 @@
+[
+  {
+    "Feature": "WildlifeSize",
+    "Value": "Large",
+    "SHAP": 1.652629,
+    "AbsSHAP": 1.652629
+  },
+  {
+    "Feature": "WildlifeSpecies",
+    "Value": "American white pelican",
+    "SHAP": 0.956976,
+    "AbsSHAP": 0.956976
+  },
+  {
+    "Feature": "MakeModel",
+    "Value": "BE-100 KING",
+    "SHAP": 0.860016,
+    "AbsSHAP": 0.860016
+  },
+  {
+    "Feature": "NumberStruck",
+    "Value": "2 to 10",
+    "SHAP": 0.636925,
+    "AbsSHAP": 0.636925
+  },
+  {
+    "Feature": "Altitude",
+    "Value": 4000,
+    "SHAP": 0.583006,
+    "AbsSHAP": 0.583006
+  },
+  {
+    "Feature": "FlightPhase",
+    "Value": "Descent",
+    "SHAP": 0.563163,
+    "AbsSHAP": 0.563163
+  },
+  {
+    "Feature": "AltitudeBin",
+    "Value": "(3000, 5000]",
+    "SHAP": 0.262431,
+    "AbsSHAP": 0.262431
+  },
+  {
+    "Feature": "ConditionsSky",
+    "Value": "Some Cloud",
+    "SHAP": 0.151857,
+    "AbsSHAP": 0.151857
+  },
+  {
+    "Feature": "Engines",
+    "Value": 2,
+    "SHAP": 0.13043,
+    "AbsSHAP": 0.13043
+  },
+  {
+    "Feature": "PilotWarned",
+    "Value": "N",
+    "SHAP": 0.075927,
+    "AbsSHAP": 0.075927
+  },
+  {
+    "Feature": "IsAircraftLarge?",
+    "Value": "No",
+    "SHAP": 0.039708,
+    "AbsSHAP": 0.039708
+  },
+  {
+    "Feature": "Month",
+    "Value": 10,
+    "SHAP": -0.017186,
+    "AbsSHAP": 0.017186
+  }
+]

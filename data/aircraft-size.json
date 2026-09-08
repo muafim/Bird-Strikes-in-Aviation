@@ -1,0 +1,14 @@
+[
+  {
+    "IsAircraftLarge?": "No",
+    "Incidents": 17027,
+    "DamageEvents": 1850,
+    "DamageRate": 10.865097
+  },
+  {
+    "IsAircraftLarge?": "Yes",
+    "Incidents": 8402,
+    "DamageEvents": 604,
+    "DamageRate": 7.188765
+  }
+]

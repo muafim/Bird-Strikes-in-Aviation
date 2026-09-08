@@ -1,0 +1,92 @@
+[
+  {
+    "WildlifeSpecies": "White-tailed deer",
+    "Incidents": 85,
+    "DamageEvents": 79,
+    "DamageRate": 92.941176
+  },
+  {
+    "WildlifeSpecies": "Snow goose",
+    "Incidents": 36,
+    "DamageEvents": 27,
+    "DamageRate": 75
+  },
+  {
+    "WildlifeSpecies": "Black vulture",
+    "Incidents": 36,
+    "DamageEvents": 24,
+    "DamageRate": 66.666667
+  },
+  {
+    "WildlifeSpecies": "Canada goose",
+    "Incidents": 370,
+    "DamageEvents": 210,
+    "DamageRate": 56.756757
+  },
+  {
+    "WildlifeSpecies": "Turkey vulture",
+    "Incidents": 178,
+    "DamageEvents": 95,
+    "DamageRate": 53.370787
+  },
+  {
+    "WildlifeSpecies": "Northern pintail",
+    "Incidents": 59,
+    "DamageEvents": 31,
+    "DamageRate": 52.542373
+  },
+  {
+    "WildlifeSpecies": "Bald eagle",
+    "Incidents": 52,
+    "DamageEvents": 25,
+    "DamageRate": 48.076923
+  },
+  {
+    "WildlifeSpecies": "Sandhill crane",
+    "Incidents": 39,
+    "DamageEvents": 17,
+    "DamageRate": 43.589744
+  },
+  {
+    "WildlifeSpecies": "Osprey",
+    "Incidents": 61,
+    "DamageEvents": 24,
+    "DamageRate": 39.344262
+  },
+  {
+    "WildlifeSpecies": "Great blue heron",
+    "Incidents": 81,
+    "DamageEvents": 31,
+    "DamageRate": 38.271605
+  },
+  {
+    "WildlifeSpecies": "Unknown bird - large",
+    "Incidents": 793,
+    "DamageEvents": 285,
+    "DamageRate": 35.93947
+  },
+  {
+    "WildlifeSpecies": "Mallard",
+    "Incidents": 140,
+    "DamageEvents": 48,
+    "DamageRate": 34.285714
+  },
+  {
+    "WildlifeSpecies": "Peregrine falcon",
+    "Incidents": 39,
+    "DamageEvents": 11,
+    "DamageRate": 28.205128
+  },
+  {
+    "WildlifeSpecies": "Red-tailed hawk",
+    "Incidents": 410,
+    "DamageEvents": 107,
+    "DamageRate": 26.097561
+  },
+  {
+    "WildlifeSpecies": "Gulls",
+    "Incidents": 39,
+    "DamageEvents": 9,
+    "DamageRate": 23.076923
+  }
+]
